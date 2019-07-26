@@ -1,0 +1,24 @@
+{
+  "name": "next-initial-request",
+  "version": "0.0.1",
+  "description": "next.js框架数据请求、获取插件",
+  "main": "index.js",
+  "scripts": {},
+  "author": "kszitt",
+  "license": "ISC",
+  "homepage": "https://github.com/kszitt/next-initial-request.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kszitt/next-initial-request.git"
+  },
+  "keywords": [
+    "next",
+    "next.js",
+    "request",
+    "http",
+    "initial",
+    "init",
+    "props",
+    "ajax"
+  ]
+}
