@@ -24,7 +24,9 @@ async function getActivity(params){
 ```
 ### import
 ``` javascript
-const NextHttp = require("next-oss");
+import NextHttp from "next-initial-request"
+// or
+const NextHttp = require("next-initial-request");
 ```
 ### Server requests data
 ``` javascript

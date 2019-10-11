@@ -24,7 +24,9 @@ async function getActivity(params){
 ```
 ### 引入
 ``` javascript
-const NextHttp = require("next-oss");
+import NextHttp from "next-initial-request"
+// or
+const NextHttp = require("next-initial-request");
 ```
 ### 服务端请求数据
 ``` javascript

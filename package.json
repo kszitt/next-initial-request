@@ -1,6 +1,6 @@
 {
   "name": "next-initial-request",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "next.js框架数据请求、获取插件",
   "main": "index.js",
   "scripts": {},
